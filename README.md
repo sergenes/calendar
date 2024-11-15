@@ -12,15 +12,15 @@ Calendar - Day of the week simplified solution
 - And ofcourse, the year divides into 12 months: [31, 28/29 (for leap years), 31, 30, 31, 30, 31, 31, 30, 31, 30, 31] days.
 
 # Good Read
-https://www.calendar.com/blog/gregorian-calendar-facts/
-https://www.amazon.com/Calendrical-Calculations-Ultimate-Edward-Reingold/dp/1107683165
+ - https://www.calendar.com/blog/gregorian-calendar-facts/
+ - https://www.amazon.com/Calendrical-Calculations-Ultimate-Edward-Reingold/dp/1107683165
 
 # Proleptic Gregorian Calendar
 OxCal calendar system used for radiocarbon dating, assumes January 1, 1 AD (listed as AD 0001 in the table) was a Monday in the Gregorian calendar.
-https://c14.arch.ox.ac.uk/oxcalhelp/hlp_analysis_calend.html
+ - https://c14.arch.ox.ac.uk/oxcalhelp/hlp_analysis_calend.html
 
 # Quora Discussion
-https://www.quora.com/What-was-the-day-on-1st-Jan-0001-AD
+ - https://www.quora.com/What-was-the-day-on-1st-Jan-0001-AD
 
 # Original Post On LinkedIn
-https://www.linkedin.com/posts/sergey-neskoromny_technicalinterview-problemsolving-calendar-activity-7262026344102858755-D8Ew
+ - https://www.linkedin.com/posts/sergey-neskoromny_technicalinterview-problemsolving-calendar-activity-7262026344102858755-D8Ew
