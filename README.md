@@ -21,3 +21,6 @@ https://c14.arch.ox.ac.uk/oxcalhelp/hlp_analysis_calend.html
 
 # Quora Discussion
 https://www.quora.com/What-was-the-day-on-1st-Jan-0001-AD
+
+# Original Post On LinkedIn
+https://www.linkedin.com/posts/sergey-neskoromny_technicalinterview-problemsolving-calendar-activity-7262026344102858755-D8Ew
